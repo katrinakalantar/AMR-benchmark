@@ -1,4 +1,4 @@
 #!/bin/bash
 
-ariba run out.resfinder.prepareref $1 $2 $3
+ariba run .run-ariba/out.resfinder.prepareref $1 $2 $3
 
